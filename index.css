@@ -1,0 +1,33 @@
+
+body{
+    text-align: center;
+    justify-content: center;
+}
+.calculator{
+    display: flexbox;
+    height: 400px;
+    width: 400px;
+    box-shadow: 0px 0px 10px gray;
+    font-size: larger;
+    font: outline;
+    font-style: normal;
+    font-family:serif Arial, Helvetica, sans-serif;
+}
+input{
+    width: 98%;
+    height:50px;
+}
+.bttn{
+    height: 50px;
+    width: 24%;
+    background-color: rgb(209, 68, 68);
+    color: white;
+    margin-top: 15px;
+}
+.btttn{
+    width: 49%;
+    height: 50px;
+    margin-top: 15px;
+    background-color: rgb(209, 68, 68);
+    color: white;
+}
